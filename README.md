@@ -1,25 +1,32 @@
-Ashirwad respect your privacy and is committed to protecting it through its compliance with its privacy policies.
-* the types of information that ashirwad may collect from you when you access or use its websites, applications and other online services (collectively, referred as "Services"); and
-* its practices for collecting, using, maintaining, protecting and disclosing that information.
-This policy applies only to the information ashirwad collects through its Services, in email, text and other electronic communications sent through or in connection with its Services.
-This policy DOES NOT apply to information that you provide to, or that is collected by, any third-party.
+Privacy Policy
+Ashirwad respects your privacy and is committed to protecting it through its compliance with its privacy policies. This document outlines the types of information that Ashirwad may collect from you when you access or use its websites, applications, and other online services (collectively referred to as "Services"), as well as our practices for collecting, using, maintaining, protecting, and disclosing that information.
 
-The information we collect and how we use it
+This policy applies only to the information Ashirwad collects through its Services, in email, text, and other electronic communications sent through or in connection with its Services. This policy DOES NOT apply to information you provide to, or that is collected by, any third-party.
 
-Your Personal Information("PI")
-Information about your internet connection
-We collect this information:
-* directly from you when you provide it to us; and/or
-* automatically as you navigate through our Services 
+The Information We Collect and How We Use It
+Personal Information ("PI")
+Information that Ashirwad collects may include:
 
-Information You Provide to Us
-The information we collect on or through our Services may include:
+Your account information: Full name, email address, postal code, password, and other details such as gender, mobile phone number, and website. Your profile picture will be publicly displayed as part of your account profile.
+Your transactional information: Information required to process transactions, such as phone number, address, email, billing details, and payment card information.
+Your public posts: User contributions like ratings, reviews, tips, photos, comments, etc., which will be visible in publicly accessible areas of the Services.
+Information about your friends: You can request friends to join Ashirwad’s Services by providing their contact details. We will use this information only to process your request and connect you with your friends.
+How We Collect Information:
+Directly from you: When you provide information via account creation, purchases, or public posts.
+Automatically as you navigate through our Services: Information such as details about your internet connection and usage patterns.
+Account Deletion
+At Ashirwad, we respect your right to delete your account. If you wish to delete your account associated with our services, please follow the steps below:
 
-Your account information: Your full name, email address, postal code, password and other information you may provide with your account, such as your gender, mobile phone number and website. Your profile picture that will be publicly displayed as part of your account profile
+Email Request: To delete your account, please send an email to help@ashirwad.com with the subject line: "Account Deletion Request." In your email, include the following:
 
-Your transactional information: If you make reservations or purchases through our Services, we may collect and store information about you to process your requests and automatically complete forms for future transactions, including (but not limited to) your phone number, address, email, billing information and credit or payment card information.
+Your registered email address
+Your username (if applicable)
+Any additional information that may assist us in identifying your account
+Processing Time: Upon receiving your account deletion request, we will review and permanently delete your account within X business days. You will receive a confirmation email once the deletion process is complete.
 
-Your Public Posts: You also may provide information (such as ratings, reviews, tips, photos, comments, likes, bookmarks, friends, lists, etc.) to be published or displayed (hereinafter, "posted") on publicly accessible areas of our Services, or transmitted to other users of our Services or third-parties (collectively, "User Contributions").
+Important Considerations:
 
-Information about Your Friends
-You have the option to request your friends to join the Services by providing their contact information. If you request a friend to join and connect with you on the Services, we will only use your friend's contact information to process your request.
+Account deletion is permanent and cannot be reversed. Once deleted, all associated data (including your profile, transaction history, and public posts) will be permanently removed.
+If you have made in-app purchases, these purchases will no longer be accessible once your account is deleted.
+To use our services again, you will need to create a new account.
+Contact Us: If you have any questions or issues regarding account deletion, please reach out to us at help@ashirwad.com.
