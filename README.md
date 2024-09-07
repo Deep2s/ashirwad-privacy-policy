@@ -17,7 +17,7 @@ Automatically as you navigate through our Services: Information such as details 
 Account Deletion
 At Ashirwad, we respect your right to delete your account. If you wish to delete your account associated with our services, please follow the steps below:
 
-Email Request: To delete your account, please send an email to help@ashirwad.com with the subject line: "Account Deletion Request." In your email, include the following:
+Email Request: To delete your account, please send an email to ashirwadhoteldholpur@gmail.com with the subject line: "Account Deletion Request." In your email, include the following:
 
 Your registered email address
 Your username (if applicable)
@@ -29,4 +29,4 @@ Important Considerations:
 Account deletion is permanent and cannot be reversed. Once deleted, all associated data (including your profile, transaction history, and public posts) will be permanently removed.
 If you have made in-app purchases, these purchases will no longer be accessible once your account is deleted.
 To use our services again, you will need to create a new account.
-Contact Us: If you have any questions or issues regarding account deletion, please reach out to us at help@ashirwad.com.
+Contact Us: If you have any questions or issues regarding account deletion, please reach out to us at ashirwadhoteldholpur@gmail.com.
